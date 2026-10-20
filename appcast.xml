@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Doze</title>
+        <item>
+            <title>261019.0</title>
+            <pubDate>Tue, 20 Oct 2026 23:18:59 +0800</pubDate>
+            <link>https://github.com/cxa/doze</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/doze/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.19.0</sparkle:version>
+            <sparkle:shortVersionString>261019.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### First release
+
+- Automatically check for and download updates for direct installations.
+- Dim the screen when you step away, then restore brightness with a mouse movement or keypress.
+- Remember your choice to keep the computer awake, and restore it when Doze opens. This also prevents automatic sleep during downloads and exports.
+- Enjoy day and night artwork, Liquid Glass buttons, a clearer app icon and more room for the landscape.
+- Choose from 12 languages. Activity information stays on your Mac.
+
+### 首次发布
+
+- 直接下载版现在会自动检查并下载更新。
+- 离开电脑后自动调暗屏幕，回来动动鼠标或按键就恢复亮度。
+- 记住你保持电脑唤醒的选择，并在 Doze 打开时恢复；下载和导出期间也不会因自动睡眠而中断。
+- 提供柔和的昼夜外观、液态玻璃按钮、更清晰的应用图标，以及更舒展的树林背景。
+- 支持 12 种语言，活动信息只留在本机。
+]]></description>
+            <enclosure url="https://github.com/cxa/doze/releases/download/v261019.0/Doze-261019.0.dmg" length="5626043" type="application/octet-stream" sparkle:edSignature="fIUCqS5B/F9ILagdPAJuDDjbtqeD4HC1FKthG1TEGBRP3k8IlKm71Wqj03Lh2VwT1DdYO6VQuPDarzKejkIrCw=="/>
+        </item>
+    </channel>
+</rss>
