@@ -16,7 +16,7 @@ Bildschirmschoner und der Ruhezustand des Displays können die KI bei der Bedien
 
 Bewege bei deiner Rückkehr die Maus, nutze das Trackpad oder drücke eine Taste. Schlummer stellt die Bildschirmhelligkeit wieder her. Simulierte Eingaben der getesteten KI-Tools stellen die Helligkeit nicht wieder her. Andere Tools können sich anders verhalten.
 
-**Mac wach halten** verhindert auch den automatischen Ruhezustand, damit Downloads und Exporte weiterlaufen. Das verbraucht mehr Energie. Deaktiviere die Option oder beende Schlummer, um die vorherigen Einstellungen wiederherzustellen. Das Schließen des Deckels und die manuelle Auswahl des Ruhezustands funktionieren weiterhin.
+**Mac wach halten** verhindert auch den automatischen Ruhezustand, damit Downloads und Exporte weiterlaufen. Bei aktivierter Option wird der Bildschirm weiterhin wie eingestellt gedimmt. Deaktiviere die Option oder beende Schlummer, um die vorherigen Einstellungen wiederherzustellen. Das Schließen des Deckels und die manuelle Auswahl des Ruhezustands funktionieren weiterhin.
 
 ## Unterstützte Displays
 

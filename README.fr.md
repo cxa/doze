@@ -16,7 +16,7 @@ L’économiseur d’écran et la veille de l’écran peuvent interrompre l’I
 
 À votre retour, bougez la souris, utilisez le trackpad ou appuyez sur une touche. Petit Repos rétablit la luminosité de l’écran. Les actions simulées des outils d’IA testés ne rétablissent pas la luminosité. D’autres outils peuvent se comporter différemment.
 
-**Garder le Mac éveillé** empêche aussi la veille automatique pour que les téléchargements et les exports continuent. Cette option consomme plus d’énergie. Désactivez-la ou quittez Petit Repos pour rétablir les réglages précédents. Elle n’empêche pas la mise en veille lorsque vous fermez le capot ou choisissez Suspendre l’activité.
+**Garder le Mac éveillé** empêche aussi la veille automatique pour que les téléchargements et les exports continuent. Quand cette option est activée, l’écran s’assombrit toujours selon vos réglages. Désactivez-la ou quittez Petit Repos pour rétablir les réglages précédents. Elle n’empêche pas la mise en veille lorsque vous fermez le capot ou choisissez Suspendre l’activité.
 
 ## Écrans compatibles
 

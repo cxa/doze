@@ -16,7 +16,7 @@ Screen savers and display sleep can interrupt AI as it uses apps. Doze dims the 
 
 When you return, move the mouse, use the trackpad or press a key. Doze restores the screen brightness. Simulated input from tested AI tools does not restore brightness. Other tools can behave differently.
 
-**Keep Computer Awake** also prevents automatic sleep, so downloads and exports can continue. It uses more power. Turn it off or quit Doze to restore your previous settings. It does not prevent sleep when you close the lid or choose Sleep.
+**Keep Computer Awake** also prevents automatic sleep, so downloads and exports can continue. With this on, the screen still dims as set. Turn it off or quit Doze to restore your previous settings. It does not prevent sleep when you close the lid or choose Sleep.
 
 ## Display support
 

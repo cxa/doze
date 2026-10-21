@@ -16,7 +16,7 @@ O protetor de tela e o desligamento automático da tela podem interromper a IA e
 
 Ao voltar, mova o mouse, use o trackpad ou pressione uma tecla. O Cochilo restaura o brilho da tela. As ações simuladas das ferramentas de IA testadas não restauram o brilho. Outras ferramentas podem se comportar de forma diferente.
 
-**Manter o Mac Acordado** também impede o repouso automático para que downloads e exportações continuem. Isso consome mais energia. Desative a opção ou encerre o Cochilo para restaurar os ajustes anteriores. A opção não impede o repouso ao fechar a tampa ou escolher Repouso.
+**Manter o Mac Acordado** também impede o repouso automático para que downloads e exportações continuem. Com esta opção ativada, a tela continua escurecendo conforme os ajustes. Desative a opção ou encerre o Cochilo para restaurar os ajustes anteriores. A opção não impede o repouso ao fechar a tampa ou escolher Repouso.
 
 ## Telas compatíveis
 

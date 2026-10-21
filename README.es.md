@@ -16,7 +16,7 @@ El salvapantallas y el apagado automático de la pantalla pueden interrumpir a l
 
 Al volver, mueve el ratón, usa el trackpad o pulsa una tecla. Siestita restaura el brillo de la pantalla. Las acciones simuladas de las herramientas de IA probadas no restauran el brillo. Otras herramientas pueden comportarse de forma diferente.
 
-**Mantener el Mac despierto** también evita el reposo automático para que las descargas y las exportaciones continúen. Consume más energía. Desactiva la opción o sal de Siestita para restaurar los ajustes anteriores. No impide el reposo al cerrar la tapa o elegir Reposo.
+**Mantener el Mac despierto** también evita el reposo automático para que las descargas y las exportaciones continúen. Con esta opción activada, la pantalla se sigue atenuando según lo configurado. Desactiva la opción o sal de Siestita para restaurar los ajustes anteriores. No impide el reposo al cerrar la tapa o elegir Reposo.
 
 ## Pantallas compatibles
 
