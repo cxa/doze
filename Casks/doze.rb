@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "doze" do
-  version "261019.0"
-  sha256 "e2744b2920be06449ce0ead4096b055abec3bafc30315f5d657c79eee00590e4"
+  version "261021.0"
+  sha256 "5d1c4a30c320d80b4ef18dbe0c351e80362b9220438f2cbc5257fed5e1f35cb8"
 
   url "https://github.com/cxa/doze/releases/download/v#{version}/Doze-#{version}.dmg"
   name "Doze"

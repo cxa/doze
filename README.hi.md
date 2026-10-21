@@ -24,11 +24,11 @@ macOS 13 या नया संस्करण चाहिए। झपकी 
 
 ## डाउनलोड करें
 
-नवीनतम संस्करण: `Doze-261019.0.dmg` · [रिलीज़ नोट्स](RELEASE_NOTES.md)
+नवीनतम संस्करण: `Doze-261021.0.dmg` · [रिलीज़ नोट्स](RELEASE_NOTES.md)
 
-[डाउनलोड करें Doze-261019.0.dmg](https://github.com/cxa/doze/releases/download/v261019.0/Doze-261019.0.dmg)
+[डाउनलोड करें Doze-261021.0.dmg](https://github.com/cxa/doze/releases/download/v261021.0/Doze-261021.0.dmg)
 
-SHA-256: `e2744b2920be06449ce0ead4096b055abec3bafc30315f5d657c79eee00590e4`
+SHA-256: `5d1c4a30c320d80b4ef18dbe0c351e80362b9220438f2cbc5257fed5e1f35cb8`
 
 डाउनलोड की गई फ़ाइल खोलें, Doze.app को Applications में खींचें और ऐप खोलें।
 

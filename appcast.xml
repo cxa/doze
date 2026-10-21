@@ -3,6 +3,26 @@
     <channel>
         <title>Doze</title>
         <item>
+            <title>261021.0</title>
+            <pubDate>Wed, 21 Oct 2026 18:11:19 +0800</pubDate>
+            <link>https://github.com/cxa/doze</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/doze/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.21.0</sparkle:version>
+            <sparkle:shortVersionString>261021.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Clearer keep-awake settings
+
+- Clearly separates the keep-awake explanation from the reminder that your screen still dims at the chosen time.
+- Updates this wording and layout in all 12 languages.
+
+### 更清楚的保持唤醒说明
+
+- 将保持唤醒的用途与调暗提醒分开显示，明确开启后屏幕仍会按设定调暗。
+- 同步更新全部 12 种语言的说明与排版。
+]]></description>
+            <enclosure url="https://github.com/cxa/doze/releases/download/v261021.0/Doze-261021.0.dmg" length="5627815" type="application/octet-stream" sparkle:edSignature="d30ScDPijEllgEaphkBW5YosDIWzktofG3TE0qFj79f9xa6Ox3mkdWbsqQ5TExa4JwcH6NNyEjSzW2VpILYhDQ=="/>
+        </item>
+        <item>
             <title>261019.0</title>
             <pubDate>Tue, 20 Oct 2026 23:18:59 +0800</pubDate>
             <link>https://github.com/cxa/doze</link>

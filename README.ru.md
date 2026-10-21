@@ -24,11 +24,11 @@
 
 ## Скачать
 
-Последняя версия: `Doze-261019.0.dmg` · [Примечания к выпуску](RELEASE_NOTES.md)
+Последняя версия: `Doze-261021.0.dmg` · [Примечания к выпуску](RELEASE_NOTES.md)
 
-[Скачать Doze-261019.0.dmg](https://github.com/cxa/doze/releases/download/v261019.0/Doze-261019.0.dmg)
+[Скачать Doze-261021.0.dmg](https://github.com/cxa/doze/releases/download/v261021.0/Doze-261021.0.dmg)
 
-SHA-256: `e2744b2920be06449ce0ead4096b055abec3bafc30315f5d657c79eee00590e4`
+SHA-256: `5d1c4a30c320d80b4ef18dbe0c351e80362b9220438f2cbc5257fed5e1f35cb8`
 
 Откройте скачанный файл, перетащите Doze.app в папку «Программы» и откройте приложение.
 

@@ -1,5 +1,17 @@
 # Release Notes · 发行说明
 
+## 261021.0
+
+### Clearer keep-awake settings
+
+- Clearly separates the keep-awake explanation from the reminder that your screen still dims at the chosen time.
+- Updates this wording and layout in all 12 languages.
+
+### 更清楚的保持唤醒说明
+
+- 将保持唤醒的用途与调暗提醒分开显示，明确开启后屏幕仍会按设定调暗。
+- 同步更新全部 12 种语言的说明与排版。
+
 ## 261019.0
 
 ### First release

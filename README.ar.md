@@ -24,11 +24,11 @@
 
 ## تنزيل
 
-أحدث إصدار: `Doze-261019.0.dmg` · [ملاحظات الإصدار](RELEASE_NOTES.md)
+أحدث إصدار: `Doze-261021.0.dmg` · [ملاحظات الإصدار](RELEASE_NOTES.md)
 
-[تنزيل Doze-261019.0.dmg](https://github.com/cxa/doze/releases/download/v261019.0/Doze-261019.0.dmg)
+[تنزيل Doze-261021.0.dmg](https://github.com/cxa/doze/releases/download/v261021.0/Doze-261021.0.dmg)
 
-SHA-256: `e2744b2920be06449ce0ead4096b055abec3bafc30315f5d657c79eee00590e4`
+SHA-256: `5d1c4a30c320d80b4ef18dbe0c351e80362b9220438f2cbc5257fed5e1f35cb8`
 
 افتح الملف الذي نزّلته، واسحب Doze.app إلى مجلد التطبيقات، ثم افتح التطبيق.
 

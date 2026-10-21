@@ -24,11 +24,11 @@ Requiere macOS 13 o posterior. Siestita admite pantallas integradas y pantallas 
 
 ## Descargar
 
-Versión más reciente: `Doze-261019.0.dmg` · [Notas de la versión](RELEASE_NOTES.md)
+Versión más reciente: `Doze-261021.0.dmg` · [Notas de la versión](RELEASE_NOTES.md)
 
-[Descargar Doze-261019.0.dmg](https://github.com/cxa/doze/releases/download/v261019.0/Doze-261019.0.dmg)
+[Descargar Doze-261021.0.dmg](https://github.com/cxa/doze/releases/download/v261021.0/Doze-261021.0.dmg)
 
-SHA-256: `e2744b2920be06449ce0ead4096b055abec3bafc30315f5d657c79eee00590e4`
+SHA-256: `5d1c4a30c320d80b4ef18dbe0c351e80362b9220438f2cbc5257fed5e1f35cb8`
 
 Abre el archivo descargado, arrastra Doze.app a Aplicaciones y abre la aplicación.
 
