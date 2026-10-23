@@ -1,5 +1,17 @@
 # Release Notes · 发行说明
 
+## 261023.0
+
+### Faster brightness restoration
+
+- Moving the mouse or pressing a key while the screen is dimming now stops dimming and restores the original brightness.
+- Responds faster when you return to a dimmed screen, including when using multiple displays.
+
+### 更快恢复屏幕亮度
+
+- 屏幕正在变暗时，移动鼠标或按键会停止调暗并恢复原亮度。
+- 屏幕调暗后，回来操作时恢复更快，也适用于多块显示器。
+
 ## 261021.0
 
 ### Clearer keep-awake settings

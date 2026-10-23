@@ -3,6 +3,26 @@
     <channel>
         <title>Doze</title>
         <item>
+            <title>261023.0</title>
+            <pubDate>Fri, 23 Oct 2026 16:09:06 +0800</pubDate>
+            <link>https://github.com/cxa/doze</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/doze/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.23.0</sparkle:version>
+            <sparkle:shortVersionString>261023.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Faster brightness restoration
+
+- Moving the mouse or pressing a key while the screen is dimming now stops dimming and restores the original brightness.
+- Responds faster when you return to a dimmed screen, including when using multiple displays.
+
+### 更快恢复屏幕亮度
+
+- 屏幕正在变暗时，移动鼠标或按键会停止调暗并恢复原亮度。
+- 屏幕调暗后，回来操作时恢复更快，也适用于多块显示器。
+]]></description>
+            <enclosure url="https://github.com/cxa/doze/releases/download/v261023.0/Doze-261023.0.dmg" length="5630095" type="application/octet-stream" sparkle:edSignature="RK+DX+3kDzyPpZrK0ZIdf0c6VBpzIOUpj/J+2MDrlImzrC6sNQPDsUzSrqD7AvGazGnIE4zeu8qGG16TjK4JCA=="/>
+        </item>
+        <item>
             <title>261021.0</title>
             <pubDate>Wed, 21 Oct 2026 18:11:19 +0800</pubDate>
             <link>https://github.com/cxa/doze</link>
