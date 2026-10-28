@@ -3,6 +3,30 @@
     <channel>
         <title>Doze</title>
         <item>
+            <title>261028.0</title>
+            <pubDate>Wed, 28 Oct 2026 15:40:44 +0800</pubDate>
+            <link>https://github.com/cxa/doze</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/doze/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.28.0</sparkle:version>
+            <sparkle:shortVersionString>261028.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Keep your screen bright during media playback
+
+- On macOS 14.2 or later, automatic dimming pauses when supported media players or browsers use audio, including VLC, QuickTime Player, IINA, mpv, Infuse, Apple TV, Chrome, Edge, Firefox, Brave, Arc, Opera, Vivaldi and Zen.
+- After audio output stops, the full waiting time starts again. You can still dim the screen manually, and Keep Computer Awake continues to work independently.
+- A circular play marker in the menu bar and a status card below the settings make it clear when automatic dimming is paused. The status card is aligned with the settings and main button in all 12 languages.
+- This follows audio activity: videos without audio may not be detected, and some apps may remain active after you pause. Safari, Apple Music and Spotify do not pause automatic dimming in this version. Earlier macOS versions keep their previous behavior.
+
+### 播放媒体时暂缓调暗
+
+- 在 macOS 14.2 或更新版本中，检测到受支持的播放器或浏览器使用音频时，会暂缓自动调暗。覆盖 VLC、QuickTime Player、IINA、mpv、Infuse、Apple TV，以及 Chrome、Edge、Firefox、Brave、Arc、Opera、Vivaldi 和 Zen。
+- 音频输出停止后，重新等待你选好的完整时长。播放期间仍可手动调暗屏幕，保持电脑唤醒也可以独立使用。
+- 菜单栏增加圆形播放标记，设置区下方显示清晰的暂停提示；提示与设置区、主按钮左右对齐，并覆盖全部 12 种语言。
+- 这一判断依据音频活动：没有音轨的视频可能无法识别，部分应用暂停后仍可能保持活跃。本版暂不覆盖 Safari，Apple Music 和 Spotify 也不会暂停自动调暗。较早的 macOS 版本保持原有行为。
+]]></description>
+            <enclosure url="https://github.com/cxa/doze/releases/download/v261028.0/Doze-261028.0.dmg" length="5662169" type="application/octet-stream" sparkle:edSignature="oKsgbfXM9FMjaA17dCJMo7RmHQBosKrpbUBrLgsv0uvnL6wv+Wod1m+kjz21DFRufnFrj1wFDHVGSDHU3rmYBQ=="/>
+        </item>
+        <item>
             <title>261023.0</title>
             <pubDate>Fri, 23 Oct 2026 16:09:06 +0800</pubDate>
             <link>https://github.com/cxa/doze</link>

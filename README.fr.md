@@ -24,11 +24,11 @@ Nécessite macOS 13 ou une version ultérieure. Petit Repos prend en charge les 
 
 ## Télécharger
 
-Dernière version: `Doze-261023.0.dmg` · [Notes de version](RELEASE_NOTES.md)
+Dernière version: `Doze-261028.0.dmg` · [Notes de version](RELEASE_NOTES.md)
 
-[Télécharger Doze-261023.0.dmg](https://github.com/cxa/doze/releases/download/v261023.0/Doze-261023.0.dmg)
+[Télécharger Doze-261028.0.dmg](https://github.com/cxa/doze/releases/download/v261028.0/Doze-261028.0.dmg)
 
-SHA-256: `62ff9b4f552822c2975aa7f0d77a01244111c59857bcf24d94d7c2fc5baba5f4`
+SHA-256: `b64e901ba1a677679318c78f96baae9626746e7727c3336867409ea195d2f920`
 
 Ouvrez le fichier téléchargé, glissez Doze.app dans Applications, puis ouvrez l’app.
 

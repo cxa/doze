@@ -24,11 +24,11 @@ macOS 13 以降が必要です。内蔵ディスプレイと、Studio Display �
 
 ## ダウンロード
 
-最新バージョン：`Doze-261023.0.dmg` · [リリースノート](RELEASE_NOTES.md)
+最新バージョン：`Doze-261028.0.dmg` · [リリースノート](RELEASE_NOTES.md)
 
-[ダウンロード Doze-261023.0.dmg](https://github.com/cxa/doze/releases/download/v261023.0/Doze-261023.0.dmg)
+[ダウンロード Doze-261028.0.dmg](https://github.com/cxa/doze/releases/download/v261028.0/Doze-261028.0.dmg)
 
-SHA-256: `62ff9b4f552822c2975aa7f0d77a01244111c59857bcf24d94d7c2fc5baba5f4`
+SHA-256: `b64e901ba1a677679318c78f96baae9626746e7727c3336867409ea195d2f920`
 
 ダウンロードしたファイルを開き、Doze.app を「アプリケーション」にドラッグしてから起動してください。
 
