@@ -18,6 +18,12 @@ L’économiseur d’écran et la veille de l’écran peuvent interrompre l’I
 
 **Garder le Mac éveillé** empêche aussi la veille automatique pour que les téléchargements et les exports continuent. Quand cette option est activée, l’écran s’assombrit toujours selon vos réglages. Désactivez-la ou quittez Petit Repos pour rétablir les réglages précédents. Elle n’empêche pas la mise en veille lorsque vous fermez le capot ou choisissez Suspendre l’activité.
 
+## Lecture multimédia
+
+Sous macOS 14.2 ou version ultérieure, Petit Repos suspend l’assombrissement automatique lorsqu’un lecteur ou navigateur compatible utilise l’audio. Quand la sortie audio s’arrête, le délai repart de zéro. Vous pouvez toujours assombrir l’écran manuellement. Un symbole de lecture circulaire dans la barre des menus et un encart sous les réglages indiquent la pause.
+
+Cela couvre VLC, QuickTime Player, IINA, mpv, Infuse et Apple TV, ainsi que Chrome, Edge, Firefox, Brave, Arc, Opera, Vivaldi et Zen. Les vidéos sans audio peuvent ne pas être détectées. Certaines apps gardent leur connexion audio après une pause : il peut être nécessaire de fermer le média ou son onglet pour relancer le délai. Safari, Apple Music et Spotify ne suspendent pas l’assombrissement automatique dans cette version.
+
 ## Écrans compatibles
 
 Nécessite macOS 13 ou une version ultérieure. Petit Repos prend en charge les écrans intégrés et ceux dont macOS règle la luminosité, comme le Studio Display. L’obscurité complète dépend de l’écran.

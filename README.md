@@ -18,6 +18,12 @@ When you return, move the mouse, use the trackpad or press a key. Doze restores 
 
 **Keep Computer Awake** also prevents automatic sleep, so downloads and exports can continue. With this on, the screen still dims as set. Turn it off or quit Doze to restore your previous settings. It does not prevent sleep when you close the lid or choose Sleep.
 
+## Media playback
+
+On macOS 14.2 or later, Doze pauses automatic dimming while supported players or browsers use audio. After audio output stops, the full waiting time starts again. You can still dim the screen manually. A circular play marker in the menu bar and a status card below the settings show when dimming is paused.
+
+This covers VLC, QuickTime Player, IINA, mpv, Infuse and Apple TV, plus Chrome, Edge, Firefox, Brave, Arc, Opera, Vivaldi and Zen. Videos without audio may not be detected. Some apps keep their audio connection after pausing, so you may need to close the media or its browser tab before timing resumes. Safari, Apple Music and Spotify do not pause automatic dimming in this version.
+
 ## Display support
 
 Requires macOS 13 or later. Doze supports built-in displays and displays with system brightness control, such as Studio Display. Whether the screen goes fully dark depends on the display.

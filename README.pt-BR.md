@@ -18,6 +18,12 @@ Ao voltar, mova o mouse, use o trackpad ou pressione uma tecla. O Cochilo restau
 
 **Manter o Mac Acordado** também impede o repouso automático para que downloads e exportações continuem. Com esta opção ativada, a tela continua escurecendo conforme os ajustes. Desative a opção ou encerre o Cochilo para restaurar os ajustes anteriores. A opção não impede o repouso ao fechar a tampa ou escolher Repouso.
 
+## Reprodução de mídia
+
+No macOS 14.2 ou posterior, o Cochilo pausa o escurecimento automático quando players ou navegadores compatíveis usam áudio. Quando a saída de áudio para, o tempo de espera recomeça por completo. Você ainda pode escurecer a tela manualmente. Um símbolo circular de reprodução na barra de menus e um cartão abaixo dos ajustes indicam a pausa.
+
+Inclui VLC, QuickTime Player, IINA, mpv, Infuse e Apple TV, além de Chrome, Edge, Firefox, Brave, Arc, Opera, Vivaldi e Zen. Vídeos sem áudio podem não ser detectados. Alguns apps mantêm a conexão de áudio após a pausa; talvez seja necessário fechar a mídia ou sua aba para retomar a contagem. Safari, Apple Music e Spotify não pausam o escurecimento automático nesta versão.
+
 ## Telas compatíveis
 
 Requer macOS 13 ou posterior. O Cochilo funciona com telas integradas e telas com controle de brilho pelo sistema, como o Studio Display. A tela ficar totalmente escura depende do modelo.

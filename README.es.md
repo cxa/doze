@@ -18,6 +18,12 @@ Al volver, mueve el ratón, usa el trackpad o pulsa una tecla. Siestita restaura
 
 **Mantener el Mac despierto** también evita el reposo automático para que las descargas y las exportaciones continúen. Con esta opción activada, la pantalla se sigue atenuando según lo configurado. Desactiva la opción o sal de Siestita para restaurar los ajustes anteriores. No impide el reposo al cerrar la tapa o elegir Reposo.
 
+## Reproducción multimedia
+
+En macOS 14.2 o posterior, Siestita pausa la atenuación automática cuando un reproductor o navegador compatible usa audio. Al detenerse la salida de audio, el tiempo de espera vuelve a empezar. Puedes seguir atenuando la pantalla manualmente. Un símbolo de reproducción circular en la barra de menús y una tarjeta bajo los ajustes indican la pausa.
+
+Incluye VLC, QuickTime Player, IINA, mpv, Infuse y Apple TV, además de Chrome, Edge, Firefox, Brave, Arc, Opera, Vivaldi y Zen. Los vídeos sin audio pueden no detectarse. Algunas aplicaciones mantienen la conexión de audio tras pausar: quizá debas cerrar el contenido o su pestaña para reiniciar la espera. Safari, Apple Music y Spotify no pausan la atenuación automática en esta versión.
+
 ## Pantallas compatibles
 
 Requiere macOS 13 o posterior. Siestita admite pantallas integradas y pantallas cuyo brillo controla el sistema, como Studio Display. Que la pantalla se oscurezca por completo depende del modelo.

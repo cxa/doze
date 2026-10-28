@@ -18,6 +18,12 @@ Bewege bei deiner Rückkehr die Maus, nutze das Trackpad oder drücke eine Taste
 
 **Mac wach halten** verhindert auch den automatischen Ruhezustand, damit Downloads und Exporte weiterlaufen. Bei aktivierter Option wird der Bildschirm weiterhin wie eingestellt gedimmt. Deaktiviere die Option oder beende Schlummer, um die vorherigen Einstellungen wiederherzustellen. Das Schließen des Deckels und die manuelle Auswahl des Ruhezustands funktionieren weiterhin.
 
+## Medienwiedergabe
+
+Ab macOS 14.2 pausiert Schlummer das automatische Abdunkeln, wenn unterstützte Player oder Browser Audio verwenden. Sobald die Audioausgabe endet, beginnt die vollständige Wartezeit von vorn. Manuelles Abdunkeln bleibt möglich. Ein rundes Wiedergabesymbol in der Menüleiste und eine Statuskarte unter den Einstellungen zeigen die Pause an.
+
+Unterstützt werden VLC, QuickTime Player, IINA, mpv, Infuse und Apple TV sowie Chrome, Edge, Firefox, Brave, Arc, Opera, Vivaldi und Zen. Videos ohne Audio werden möglicherweise nicht erkannt. Manche Apps halten ihre Audioverbindung nach dem Pausieren offen; dann muss das Medium oder der Browser-Tab geschlossen werden, damit die Wartezeit neu beginnt. Safari, Apple Music und Spotify pausieren das automatische Abdunkeln in dieser Version nicht.
+
 ## Unterstützte Displays
 
 Erfordert macOS 13 oder neuer. Schlummer unterstützt integrierte Displays und Displays mit Helligkeitssteuerung durch das System, zum Beispiel das Studio Display. Ob der Bildschirm vollständig dunkel wird, hängt vom Display ab.
